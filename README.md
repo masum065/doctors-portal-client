@@ -22,4 +22,3 @@
 -   MongoDB Atlas
 -   Hroku
 
-**MY RESUME:** [resume-Of-Masum_Billah](https://rb.gy/fyoa14)
